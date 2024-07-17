@@ -9,5 +9,5 @@
 </p>
 <p>You can chnage the logo with replace the "logo.png" with any image</p>
 
-> **Warning**
+> **Note**
 > This is a warning
