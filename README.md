@@ -8,8 +8,5 @@
 </ul>
 </p>
 <p>You can chnage the logo with replace the "logo.png" with any image</p>
-> **Note**
-> This is a note
-
 > **Warning**
 > This is a warning
