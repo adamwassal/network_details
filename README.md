@@ -14,8 +14,11 @@
 
 <h2>Installtion</h2>
 <code>sudo apt install python3-tk</code>
+<br />
 <code>pip3 install netifaces</code>
+<br />
 <code>pip3 install getmac</code>
+<br />
 <code>pip3 install pillow</code>
 
 <h2>Run</h2>
