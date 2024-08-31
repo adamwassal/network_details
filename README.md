@@ -1,4 +1,5 @@
 <h1>Network details</h1>
+<img src="https://i.ibb.co/2SHx1yY/network-information.png" alt="network-information" border="0">
 <p>This programe show details of network:
 <ul>
   <li>Device name</li>
